@@ -24,7 +24,8 @@ Look up the attackers' Geolocation information and plot it on an Azure Sentinel 
 <img width="954" alt="russia" src="https://github.com/James1950/SIEM-Honeypot---Sentinel-Lab/assets/112421154/8477e9dc-cd76-426a-8a80-72d7ed6a01b0">
 
 <h2>World map of incoming attacks after a couple hours (built custom logs including geodata)</h2>
-<img width="556" alt="map" src="https://github.com/James1950/SIEM-Honeypot---Sentinel-Lab/assets/112421154/baa3ad1f-c365-47d3-a91a-f51febf78f8c">
+<img width="788" alt="chart" src="https://github.com/James1950/SIEM-Honeypot---Sentinel-Lab/assets/112421154/5afc43b9-3caa-44d6-b056-79b577441751">
+
 
 <h2>Bar graph comparing origins</h2>
 <img width="788" alt="chart" src="https://github.com/James1950/SIEM-Honeypot---Sentinel-Lab/assets/112421154/fd48fd7a-efd8-49c6-b5a9-c186114ae7df">
